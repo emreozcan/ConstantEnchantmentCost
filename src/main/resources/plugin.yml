@@ -1,0 +1,7 @@
+name: ConstantEnchantmentCost
+version: '${project.version}'
+main: com.emreis.constantenchantmentcost.ConstantEnchantmentCost
+api-version: "1.18"
+description: Makes enchantments always cost the same amount of points regardless of the player's level
+author: "Emre Özcan"
+website: "https://emreis.com"
